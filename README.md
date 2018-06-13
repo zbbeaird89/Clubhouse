@@ -2,7 +2,7 @@
 
 A basic web application for members of the clubhouse to write nasty posts
 about non-members. Members will be able to view the author of the post but 
-non-members won't. This is a project that is part of (The Odin Project)[https://www.theodinproject.com/lessons/authentication]
+non-members won't. This is a project that is part of [The Odin Project](https://www.theodinproject.com/lessons/authentication)
 curriculum.
 
 ## Getting started
